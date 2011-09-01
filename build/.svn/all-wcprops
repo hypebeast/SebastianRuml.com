@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/homepage/!svn/ver/2/trunk/build
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/homepage/!svn/ver/2/trunk/build/default.properties
+END
+createproject.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/homepage/!svn/ver/2/trunk/build/createproject.sh
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/homepage/!svn/ver/2/trunk/build/build.properties
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/homepage/!svn/ver/2/trunk/build/build.xml
+END
